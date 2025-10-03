@@ -1,2 +1,2 @@
-# HELLO-WORLD
-My first repository on GitHub
+## About Me
+My name is Dennis. I’m learning GitHub 🚀
